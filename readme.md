@@ -3,6 +3,15 @@
 
 Prevents a string or an array from starting with specified value.
 
+## Installation
+<a href='https://npmjs.com/package/prevent-start'><img alt='npm logo' src='https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png' height=16/></a>
+```bash
+npm install --save prevent-start@^
+```
+<a href='https://yarnpkg.com/package/prevent-start'><img alt='Yarn logo' src='https://raw.githubusercontent.com/yarnpkg/assets/master/yarn-kitten-full.png' height=24/></a>
+```bash
+yarn add prevent-start@^
+```
 
 
 ## Try it out
