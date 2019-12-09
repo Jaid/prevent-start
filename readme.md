@@ -6,11 +6,11 @@ Prevents a string or an array from starting with specified value.
 ## Installation
 <a href='https://npmjs.com/package/prevent-start'><img alt='npm logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/npm.png'/></a>
 ```bash
-npm install --save prevent-start@^1.0.4
+npm install --save prevent-start@^1.0.5
 ```
 <a href='https://yarnpkg.com/package/prevent-start'><img alt='Yarn logo' src='https://github.com/Jaid/action-readme/raw/master/images/base-assets/yarn.png'/></a>
 ```bash
-yarn add prevent-start@^1.0.4
+yarn add prevent-start@^1.0.5
 ```
 
 
@@ -21,7 +21,7 @@ Open a browser's JavaScript console and execute:
 ```javascript
 const scriptElement = document.createElement("script");
 scriptElement.setAttribute("type","text/javascript");
-scriptElement.setAttribute("src","https://unpkg.com/prevent-start@1.0.4");
+scriptElement.setAttribute("src","https://unpkg.com/prevent-start@1.0.5");
 document.querySelector("head").appendChild(scriptElement);
 ```
 
