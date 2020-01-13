@@ -32,5 +32,9 @@
   },
   "name": "prevent-start",
   "description": "Prevents a string or an array from starting with specified value.",
-  "funding": "https://github.com/sponsors/jaid"
+  "funding": "https://github.com/sponsors/jaid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaid/prevent-start"
+  }
 }
