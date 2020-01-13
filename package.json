@@ -31,5 +31,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "prevent-start",
-  "description": "Prevents a string or an array from starting with specified value."
+  "description": "Prevents a string or an array from starting with specified value.",
+  "funding": "https://github.com/sponsors/jaid"
 }
