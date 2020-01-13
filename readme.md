@@ -1,9 +1,9 @@
 # prevent-start
 
 
-<a href="https://raw.githubusercontent.com/Jaid/prevent-start/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/prevent-start?style=flat-square" alt="License"/></a>  
-<a href="https://actions-badge.atrox.dev/Jaid/prevent-start/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fprevent-start%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/prevent-start/commits"><img src="https://img.shields.io/github/commits-since/Jaid/prevent-start/v1.0.5?style=flat-square&logo=github" alt="Commits since v1.0.5"/></a> <a href="https://github.com/Jaid/prevent-start/commits"><img src="https://img.shields.io/github/last-commit/Jaid/prevent-start?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/prevent-start/issues"><img src="https://img.shields.io/github/issues/Jaid/prevent-start?style=flat-square&logo=github" alt="Issues"/></a>  
-<a href="https://npmjs.com/package/prevent-start"><img src="https://img.shields.io/npm/v/prevent-start?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/prevent-start/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/prevent-start?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/prevent-start"><img src="https://img.shields.io/npm/dm/prevent-start?style=flat-square&logo=npm" alt="Downloads"/></a>
+<a href="https://raw.githubusercontent.com/jaid/prevent-start/master/license.txt"><img src="https://img.shields.io/github/license/jaid/prevent-start?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor prevent-start"/></a>
+<a href="https://actions-badge.atrox.dev/jaid/prevent-start/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fprevent-start%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/prevent-start/commits"><img src="https://img.shields.io/github/commits-since/jaid/prevent-start/v1.0.5?style=flat-square&logo=github" alt="Commits since v1.0.5"/></a> <a href="https://github.com/jaid/prevent-start/commits"><img src="https://img.shields.io/github/last-commit/jaid/prevent-start?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/prevent-start/issues"><img src="https://img.shields.io/github/issues/jaid/prevent-start?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/prevent-start"><img src="https://img.shields.io/npm/v/prevent-start?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/prevent-start/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/prevent-start?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/prevent-start"><img src="https://img.shields.io/npm/dm/prevent-start?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **Prevents a string or an array from starting with specified value.**
 
@@ -41,14 +41,13 @@ yarn add prevent-start@^1.0.5
 
 
 
-
 ## Development
 
 
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/prevent-start.git
+git clone git@github.com:jaid/prevent-start.git
 cd prevent-start
 npm install
 ```
