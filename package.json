@@ -36,5 +36,19 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jaid/prevent-start"
-  }
+  },
+  "homepage": "https://github.com/Jaid/prevent-start",
+  "keywords": [
+    "array",
+    "ensure",
+    "lodash",
+    "prefix",
+    "prevent",
+    "start",
+    "starting",
+    "startswith",
+    "string",
+    "util",
+    "utility"
+  ]
 }
